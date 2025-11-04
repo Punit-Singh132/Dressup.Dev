@@ -4,17 +4,9 @@ An elegant and scalable e-commerce web application for fashion products, built w
 
 ---
 
-## 🔗 Live Demo
-
-🌐 [Live Website](https://your-vercel-app.vercel.app)  
-🧠 Backend API: [https://your-api-url.onrender.com](https://your-api-url.onrender.com)
 
 ---
 
-## 📸 Screenshots
-
-<img src="https://yourdomain.com/homepage.png" width="100%" alt="Homepage Screenshot"/>
-<img src="https://yourdomain.com/productpage.png" width="100%" alt="Product Page Screenshot"/>
 
 ---
 
@@ -58,4 +50,5 @@ An elegant and scalable e-commerce web application for fashion products, built w
 ```bash
 git clone https://github.com/Punit-Singh132/Dressup.Dev.git
 cd Dressup.Dev
+
 
